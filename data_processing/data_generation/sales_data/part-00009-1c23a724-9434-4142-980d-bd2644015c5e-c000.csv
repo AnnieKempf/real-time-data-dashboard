@@ -1,0 +1,63 @@
+Transaction_ID,Customer_ID,Product_Category,Quantity,Price,Date,Product_Name
+559,8970,Standard Vehicle,10,181.85,2023-10-24,Small Hatchback
+560,67730,Standard Vehicle,7,615.8,2023-04-19,Station Wagon
+561,14527,Service and Maintenance,9,332.59,2023-07-03,Brake Inspection and Replacement
+562,5651,Special Offers,2,528.76,2022-04-19,Trade-In Bonus Offer
+563,39293,Electric Vehicle,2,77.89,2023-04-15,Electric Crossover SUV
+564,68556,Commercial Vehicle,5,255.23,2022-05-08,Cargo Van
+565,69425,Hybrid Vehicle,3,722.1,2022-11-26,Compact Hybrid Sedan
+566,91300,Commercial Vehicle,4,736.37,2023-05-31,Heavy-Duty Pickup Truck
+567,89571,Service and Maintenance,8,121.06,2022-06-18,Tire Rotation and Alignment
+568,49578,Commercial Vehicle,4,703.05,2022-11-25,Box Truck
+569,91193,Commercial Vehicle,2,333.17,2023-05-29,Chassis Cab
+570,15292,Performance Vehicle,9,84.98,2023-09-27,Luxury Performance Sedan
+571,4411,Special Offers,3,120.9,2023-11-25,Financing Rate Promotion
+572,86928,Commercial Vehicle,9,891.43,2023-03-09,Chassis Cab
+573,69910,Electric Vehicle,1,576.6,2023-03-31,Electric Commercial Van
+574,33449,Standard Vehicle,4,220.33,2023-01-01,Station Wagon
+575,48435,Standard Vehicle,6,263.79,2021-12-26,Small Hatchback
+576,86936,Service and Maintenance,7,664.48,2023-09-30,Tire Rotation and Alignment
+577,65314,Electric Vehicle,7,550.29,2022-12-24,Electric Sports Car
+578,8186,Commercial Vehicle,6,854.41,2022-08-14,Passenger Wagon
+579,89733,Parts and Accessories,1,611.66,2022-12-10,Car Audio and Entertainment Systems
+580,98721,Standard Vehicle,2,477.27,2022-01-17,Station Wagon
+581,923,Performance Vehicle,9,606.52,2022-05-15,Performance Electric Model
+582,12660,Service and Maintenance,1,470.7,2023-02-25,Brake Inspection and Replacement
+583,6319,Electric Vehicle,5,528.93,2022-04-09,All-Electric Compact Car
+584,12498,Hybrid Vehicle,5,582.58,2023-01-18,Hybrid Hatchback
+585,68780,Special Offers,1,706.55,2022-04-10,Financing Rate Promotion
+586,24351,Parts and Accessories,9,432.55,2022-06-22,Car Audio and Entertainment Systems
+587,45493,Hybrid Vehicle,5,65.25,2023-11-20,Compact Hybrid Sedan
+588,13766,Performance Vehicle,9,696.38,2023-09-14,Track-Focused Sports Car
+589,59576,Special Offers,1,131.36,2022-08-13,Financing Rate Promotion
+590,1379,Standard Vehicle,6,268.03,2022-07-18,Full-Size Sedan
+591,33813,Special Offers,2,145.08,2022-05-30,Trade-In Bonus Offer
+592,30039,Standard Vehicle,3,999.13,2022-04-19,Compact Sedan
+593,2893,Standard Vehicle,3,624.98,2023-03-01,Station Wagon
+594,11657,Performance Vehicle,6,890.78,2023-12-07,Performance Electric Model
+595,61855,Service and Maintenance,4,863.99,2022-11-25,Brake Inspection and Replacement
+596,74511,Commercial Vehicle,10,395.63,2023-04-23,Heavy-Duty Pickup Truck
+597,36385,Special Offers,1,583.78,2023-01-25,Seasonal Service Package Discount
+598,1648,Performance Vehicle,7,582.0,2023-05-22,Luxury Performance Sedan
+599,24093,Service and Maintenance,7,448.28,2022-01-20,Engine Diagnostic and Repair
+600,94901,Hybrid Vehicle,2,520.82,2022-01-22,Hybrid Hatchback
+601,83193,Standard Vehicle,10,74.92,2022-01-13,Small Hatchback
+602,30740,Performance Vehicle,4,884.03,2023-11-12,Luxury Performance Sedan
+603,34977,Hybrid Vehicle,9,70.54,2023-11-27,Full-Size Hybrid Pickup Truck
+604,90892,Electric Vehicle,4,325.94,2023-11-29,All-Electric Compact Car
+605,71021,Performance Vehicle,4,536.96,2023-03-20,Luxury Performance Sedan
+606,74434,Parts and Accessories,6,246.93,2022-08-18,Vehicle Navigation Systems
+607,23866,Standard Vehicle,8,402.16,2023-01-17,Midsize SUV
+608,47945,Commercial Vehicle,9,51.96,2022-12-12,Heavy-Duty Pickup Truck
+609,49131,Standard Vehicle,8,81.97,2022-06-24,Compact Sedan
+610,91188,Parts and Accessories,3,57.92,2023-11-25,Vehicle Navigation Systems
+611,43504,Performance Vehicle,6,812.97,2022-10-13,High-Speed Performance SUV
+612,39165,Hybrid Vehicle,8,637.25,2023-09-21,Luxury Hybrid Coupe
+613,24216,Standard Vehicle,7,586.89,2022-01-19,Midsize SUV
+614,76111,Parts and Accessories,10,903.27,2022-06-08,Custom Alloy Wheels
+615,48203,Hybrid Vehicle,3,561.74,2022-09-12,Full-Size Hybrid Pickup Truck
+616,23246,Electric Vehicle,6,390.19,2022-06-24,Electric Luxury Sedan
+617,54020,Special Offers,10,394.35,2023-10-31,Seasonal Service Package Discount
+618,16623,Special Offers,2,825.07,2023-02-16,Exclusive Accessory Bundle Deal
+619,62724,Standard Vehicle,9,461.8,2023-05-13,Full-Size Sedan
+620,20774,Financing and Insurance,5,344.1,2023-08-15,New Vehicle Loan

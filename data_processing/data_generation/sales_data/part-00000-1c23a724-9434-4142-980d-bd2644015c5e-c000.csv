@@ -1,0 +1,63 @@
+Transaction_ID,Customer_ID,Product_Category,Quantity,Price,Date,Product_Name
+1,96733,Service and Maintenance,5,664.36,2022-02-03,Tire Rotation and Alignment
+2,1425,Electric Vehicle,8,895.0,2022-02-06,All-Electric Compact Car
+3,86640,Financing and Insurance,9,74.54,2022-07-31,New Vehicle Loan
+4,63373,Hybrid Vehicle,7,134.41,2023-10-09,Midsize Hybrid SUV
+5,17468,Financing and Insurance,9,189.77,2023-12-09,Used Vehicle Financing
+6,72328,Parts and Accessories,9,676.17,2022-08-21,Roof Racks and Carriers
+7,59895,Performance Vehicle,8,631.03,2023-09-30,High-Performance Sports Coupe
+8,24366,Special Offers,1,661.43,2022-04-10,Limited-Time Discount on New Models
+9,86938,Financing and Insurance,9,261.89,2023-05-06,Vehicle Insurance Plans
+10,84636,Standard Vehicle,5,476.99,2022-11-13,Small Hatchback
+11,83556,Performance Vehicle,3,922.81,2022-11-18,High-Speed Performance SUV
+12,62713,Electric Vehicle,1,996.63,2023-03-07,All-Electric Compact Car
+13,48257,Service and Maintenance,9,126.51,2022-04-23,Battery Check and Replacement
+14,56217,Commercial Vehicle,6,746.97,2022-01-21,Cargo Van
+15,231,Commercial Vehicle,9,415.17,2022-11-14,Passenger Wagon
+16,98420,Performance Vehicle,9,350.28,2023-10-26,Track-Focused Sports Car
+17,78926,Standard Vehicle,1,639.49,2023-08-05,Small Hatchback
+18,87580,Parts and Accessories,8,951.69,2022-11-20,Roof Racks and Carriers
+19,33653,Performance Vehicle,1,877.24,2023-06-14,Performance Electric Model
+20,44111,Service and Maintenance,2,64.73,2022-04-26,Tire Rotation and Alignment
+21,56379,Service and Maintenance,9,906.31,2023-06-28,Battery Check and Replacement
+22,17500,Commercial Vehicle,2,27.96,2022-11-28,Chassis Cab
+23,67534,Hybrid Vehicle,6,904.59,2022-03-20,Midsize Hybrid SUV
+24,64053,Standard Vehicle,6,695.65,2022-11-16,Full-Size Sedan
+25,33391,Hybrid Vehicle,6,695.11,2023-06-27,Full-Size Hybrid Pickup Truck
+26,52857,Financing and Insurance,4,669.91,2022-06-21,Used Vehicle Financing
+27,10647,Financing and Insurance,8,172.62,2023-10-16,Used Vehicle Financing
+28,68088,Parts and Accessories,4,648.82,2022-01-19,All-Weather Floor Mats
+29,49816,Performance Vehicle,2,630.81,2022-11-13,High-Speed Performance SUV
+30,10566,Special Offers,2,958.34,2023-08-16,Trade-In Bonus Offer
+31,85633,Standard Vehicle,2,701.06,2023-03-06,Small Hatchback
+32,28210,Financing and Insurance,2,543.89,2022-04-26,Vehicle Insurance Plans
+33,16844,Service and Maintenance,10,182.23,2023-01-25,Brake Inspection and Replacement
+34,85801,Commercial Vehicle,5,901.4,2023-06-08,Cargo Van
+35,66916,Standard Vehicle,10,612.88,2022-05-31,Compact Sedan
+36,35948,Electric Vehicle,4,642.97,2023-08-05,Electric Luxury Sedan
+37,97140,Special Offers,3,92.9,2022-01-08,Trade-In Bonus Offer
+38,41907,Electric Vehicle,10,730.0,2022-10-22,Electric Crossover SUV
+39,89422,Standard Vehicle,10,892.08,2023-08-01,Small Hatchback
+40,60946,Special Offers,5,672.72,2023-06-18,Limited-Time Discount on New Models
+41,79227,Parts and Accessories,9,236.22,2022-10-26,Car Audio and Entertainment Systems
+42,15059,Electric Vehicle,8,120.36,2023-02-26,Electric Sports Car
+43,11807,Financing and Insurance,10,819.31,2023-02-11,Vehicle Insurance Plans
+44,88135,Service and Maintenance,1,378.29,2022-03-06,Tire Rotation and Alignment
+45,39116,Service and Maintenance,10,739.45,2022-05-16,Tire Rotation and Alignment
+46,37047,Service and Maintenance,5,121.23,2022-07-30,Oil Change and Lubrication Service
+47,96800,Financing and Insurance,5,175.05,2022-01-04,Vehicle Insurance Plans
+48,55725,Service and Maintenance,4,931.18,2023-10-18,Engine Diagnostic and Repair
+49,459,Hybrid Vehicle,7,552.68,2022-12-30,Full-Size Hybrid Pickup Truck
+50,75681,Financing and Insurance,6,855.23,2023-08-11,New Vehicle Loan
+51,14107,Electric Vehicle,6,522.02,2022-10-15,Electric Luxury Sedan
+52,10960,Special Offers,9,997.05,2023-06-13,Financing Rate Promotion
+53,90115,Standard Vehicle,5,120.96,2023-08-31,Full-Size Sedan
+54,25388,Parts and Accessories,8,19.96,2022-05-28,Car Audio and Entertainment Systems
+55,30363,Electric Vehicle,8,530.87,2022-08-11,All-Electric Compact Car
+56,32681,Special Offers,3,874.72,2023-02-02,Limited-Time Discount on New Models
+57,87696,Performance Vehicle,3,215.97,2022-01-26,Performance Electric Model
+58,85340,Special Offers,1,233.54,2022-06-03,Trade-In Bonus Offer
+59,46199,Commercial Vehicle,4,572.71,2022-09-14,Passenger Wagon
+60,97377,Financing and Insurance,8,198.89,2023-07-21,Lease Agreements
+61,72204,Performance Vehicle,7,719.04,2023-08-05,Luxury Performance Sedan
+62,50010,Service and Maintenance,8,356.36,2022-12-03,Brake Inspection and Replacement

@@ -1,0 +1,63 @@
+Transaction_ID,Customer_ID,Product_Category,Quantity,Price,Date,Product_Name
+621,57391,Performance Vehicle,9,247.09,2022-02-05,High-Performance Sports Coupe
+622,82439,Standard Vehicle,8,273.75,2023-07-02,Small Hatchback
+623,69879,Special Offers,6,358.9,2022-07-14,Seasonal Service Package Discount
+624,4666,Hybrid Vehicle,3,737.56,2022-11-10,Luxury Hybrid Coupe
+625,34081,Parts and Accessories,4,901.28,2022-09-05,Car Audio and Entertainment Systems
+626,43117,Commercial Vehicle,3,221.97,2022-02-13,Chassis Cab
+627,96163,Service and Maintenance,10,43.53,2023-05-01,Engine Diagnostic and Repair
+628,9069,Service and Maintenance,6,608.9,2023-12-02,Brake Inspection and Replacement
+629,32924,Financing and Insurance,3,234.64,2021-12-30,Used Vehicle Financing
+630,71576,Performance Vehicle,5,781.77,2023-09-12,Luxury Performance Sedan
+631,97232,Service and Maintenance,4,134.76,2023-05-19,Brake Inspection and Replacement
+632,65414,Standard Vehicle,10,173.43,2022-06-15,Full-Size Sedan
+633,30900,Service and Maintenance,5,332.86,2023-06-12,Oil Change and Lubrication Service
+634,29543,Electric Vehicle,8,12.62,2023-03-09,All-Electric Compact Car
+635,83760,Performance Vehicle,1,407.15,2022-02-26,Track-Focused Sports Car
+636,73195,Standard Vehicle,7,921.49,2022-05-01,Small Hatchback
+637,59798,Special Offers,10,869.71,2023-07-21,Limited-Time Discount on New Models
+638,89280,Hybrid Vehicle,6,427.99,2023-05-20,Luxury Hybrid Coupe
+639,62128,Performance Vehicle,6,200.49,2022-03-19,Performance Electric Model
+640,86024,Service and Maintenance,9,873.58,2022-08-16,Engine Diagnostic and Repair
+641,69909,Standard Vehicle,8,308.22,2023-05-17,Midsize SUV
+642,84268,Hybrid Vehicle,3,898.28,2023-01-15,Hybrid Hatchback
+643,41344,Electric Vehicle,1,254.8,2022-09-08,Electric Commercial Van
+644,22066,Special Offers,1,976.38,2022-11-02,Trade-In Bonus Offer
+645,17145,Hybrid Vehicle,5,588.32,2023-08-06,Midsize Hybrid SUV
+646,93159,Hybrid Vehicle,3,892.52,2022-06-27,Hybrid Hatchback
+647,97894,Commercial Vehicle,1,686.83,2022-10-01,Box Truck
+648,50360,Special Offers,1,271.97,2023-10-07,Limited-Time Discount on New Models
+649,57398,Financing and Insurance,10,373.01,2023-05-19,Vehicle Insurance Plans
+650,2274,Financing and Insurance,10,12.74,2023-09-20,Used Vehicle Financing
+651,80582,Parts and Accessories,7,19.85,2022-11-27,All-Weather Floor Mats
+652,34355,Parts and Accessories,4,428.74,2023-06-09,Car Audio and Entertainment Systems
+653,62959,Performance Vehicle,2,609.51,2022-06-16,High-Performance Sports Coupe
+654,4926,Service and Maintenance,1,331.7,2023-07-11,Brake Inspection and Replacement
+655,43981,Service and Maintenance,1,422.05,2023-08-14,Brake Inspection and Replacement
+656,72731,Standard Vehicle,9,405.2,2022-12-04,Full-Size Sedan
+657,93158,Hybrid Vehicle,7,608.75,2023-10-09,Midsize Hybrid SUV
+658,93516,Special Offers,4,594.06,2022-08-10,Limited-Time Discount on New Models
+659,40161,Standard Vehicle,2,867.66,2023-03-20,Station Wagon
+660,1426,Electric Vehicle,10,81.19,2022-08-25,Electric Crossover SUV
+661,32069,Standard Vehicle,8,99.76,2022-05-24,Station Wagon
+662,99087,Performance Vehicle,1,47.66,2022-04-05,Performance Electric Model
+663,89038,Commercial Vehicle,7,735.54,2023-01-22,Heavy-Duty Pickup Truck
+664,2712,Electric Vehicle,2,328.12,2022-10-22,All-Electric Compact Car
+665,17928,Standard Vehicle,1,295.9,2023-09-26,Station Wagon
+666,53302,Hybrid Vehicle,2,515.54,2023-03-20,Compact Hybrid Sedan
+667,52440,Commercial Vehicle,10,135.9,2023-12-04,Cargo Van
+668,74345,Special Offers,2,194.75,2023-12-23,Financing Rate Promotion
+669,92501,Electric Vehicle,7,623.77,2022-08-04,All-Electric Compact Car
+670,69877,Financing and Insurance,7,416.57,2022-07-20,Used Vehicle Financing
+671,86323,Service and Maintenance,3,769.4,2023-02-16,Tire Rotation and Alignment
+672,21851,Hybrid Vehicle,1,183.73,2022-09-17,Compact Hybrid Sedan
+673,93823,Hybrid Vehicle,9,295.94,2022-02-26,Full-Size Hybrid Pickup Truck
+674,9532,Performance Vehicle,7,302.5,2022-02-21,High-Performance Sports Coupe
+675,91053,Commercial Vehicle,2,278.3,2022-08-17,Box Truck
+676,95350,Electric Vehicle,6,501.92,2023-06-09,Electric Crossover SUV
+677,24666,Service and Maintenance,5,758.19,2022-03-16,Tire Rotation and Alignment
+678,48055,Hybrid Vehicle,5,933.05,2023-07-14,Midsize Hybrid SUV
+679,16421,Commercial Vehicle,7,378.09,2022-08-11,Chassis Cab
+680,27735,Financing and Insurance,9,353.93,2022-08-01,Extended Warranty Coverage
+681,90993,Hybrid Vehicle,3,711.42,2021-12-30,Midsize Hybrid SUV
+682,12487,Performance Vehicle,3,302.36,2023-03-22,Track-Focused Sports Car

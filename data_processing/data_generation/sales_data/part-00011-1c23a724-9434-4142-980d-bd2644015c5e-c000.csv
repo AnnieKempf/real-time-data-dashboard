@@ -1,0 +1,63 @@
+Transaction_ID,Customer_ID,Product_Category,Quantity,Price,Date,Product_Name
+683,905,Electric Vehicle,7,19.56,2022-08-02,Electric Sports Car
+684,13879,Service and Maintenance,6,181.18,2022-09-06,Battery Check and Replacement
+685,74802,Electric Vehicle,2,446.08,2023-01-17,Electric Sports Car
+686,18755,Hybrid Vehicle,3,31.06,2022-07-19,Full-Size Hybrid Pickup Truck
+687,58594,Hybrid Vehicle,8,643.66,2023-10-22,Hybrid Hatchback
+688,81676,Service and Maintenance,3,428.08,2022-09-07,Battery Check and Replacement
+689,78028,Financing and Insurance,9,639.85,2022-10-16,Vehicle Insurance Plans
+690,20990,Performance Vehicle,7,406.65,2023-03-28,Luxury Performance Sedan
+691,18226,Performance Vehicle,6,729.73,2023-10-18,Luxury Performance Sedan
+692,37060,Electric Vehicle,7,327.26,2022-11-27,All-Electric Compact Car
+693,30329,Parts and Accessories,7,52.41,2023-03-23,All-Weather Floor Mats
+694,14650,Financing and Insurance,7,994.39,2023-05-27,Extended Warranty Coverage
+695,92374,Standard Vehicle,10,140.23,2023-03-22,Station Wagon
+696,86284,Service and Maintenance,7,483.71,2023-03-18,Brake Inspection and Replacement
+697,17009,Electric Vehicle,3,645.99,2022-12-01,Electric Sports Car
+698,53042,Parts and Accessories,3,852.76,2022-05-29,All-Weather Floor Mats
+699,46885,Financing and Insurance,1,894.82,2022-12-19,Extended Warranty Coverage
+700,26923,Hybrid Vehicle,7,72.73,2023-02-05,Hybrid Hatchback
+701,65511,Special Offers,1,797.71,2023-08-22,Seasonal Service Package Discount
+702,48781,Service and Maintenance,6,897.58,2022-04-29,Battery Check and Replacement
+703,43064,Electric Vehicle,4,70.4,2023-02-08,Electric Sports Car
+704,15289,Commercial Vehicle,9,548.96,2022-06-14,Cargo Van
+705,54119,Financing and Insurance,8,470.33,2021-12-27,Vehicle Insurance Plans
+706,13165,Electric Vehicle,10,117.56,2023-03-24,Electric Sports Car
+707,22332,Financing and Insurance,4,21.58,2022-10-12,Vehicle Insurance Plans
+708,65426,Performance Vehicle,9,963.14,2023-12-03,High-Performance Sports Coupe
+709,54388,Standard Vehicle,4,520.08,2022-05-07,Station Wagon
+710,7110,Electric Vehicle,7,339.94,2023-11-25,All-Electric Compact Car
+711,15498,Parts and Accessories,1,47.52,2022-07-09,Car Audio and Entertainment Systems
+712,49313,Parts and Accessories,8,877.39,2023-03-24,Custom Alloy Wheels
+713,94185,Electric Vehicle,8,775.82,2023-02-27,Electric Luxury Sedan
+714,85804,Performance Vehicle,8,832.49,2022-10-01,High-Speed Performance SUV
+715,92961,Hybrid Vehicle,8,27.03,2022-09-19,Midsize Hybrid SUV
+716,33065,Performance Vehicle,3,330.12,2022-05-21,Luxury Performance Sedan
+717,52355,Performance Vehicle,6,751.82,2023-02-04,High-Performance Sports Coupe
+718,25155,Special Offers,4,654.75,2023-06-23,Financing Rate Promotion
+719,9316,Standard Vehicle,9,21.8,2022-07-08,Compact Sedan
+720,29832,Commercial Vehicle,3,755.49,2021-12-27,Box Truck
+721,4886,Special Offers,2,708.98,2022-01-19,Exclusive Accessory Bundle Deal
+722,70249,Hybrid Vehicle,2,599.61,2022-08-31,Compact Hybrid Sedan
+723,30448,Special Offers,8,894.59,2023-05-05,Seasonal Service Package Discount
+724,2,Hybrid Vehicle,7,394.23,2023-05-08,Midsize Hybrid SUV
+725,28612,Electric Vehicle,10,836.23,2023-07-17,Electric Luxury Sedan
+726,20260,Standard Vehicle,2,890.59,2023-02-02,Midsize SUV
+727,18360,Service and Maintenance,1,571.18,2022-05-06,Brake Inspection and Replacement
+728,63385,Financing and Insurance,4,309.87,2022-03-02,New Vehicle Loan
+729,59232,Parts and Accessories,7,539.77,2022-05-01,Car Audio and Entertainment Systems
+730,65253,Service and Maintenance,3,387.68,2022-07-09,Battery Check and Replacement
+731,29831,Commercial Vehicle,7,522.52,2023-08-01,Cargo Van
+732,10257,Standard Vehicle,3,361.05,2022-06-02,Midsize SUV
+733,55878,Parts and Accessories,4,220.34,2023-04-14,All-Weather Floor Mats
+734,73462,Electric Vehicle,10,505.52,2023-01-18,Electric Luxury Sedan
+735,18121,Commercial Vehicle,7,315.97,2022-12-13,Chassis Cab
+736,56831,Standard Vehicle,10,603.62,2023-05-05,Full-Size Sedan
+737,10453,Financing and Insurance,9,879.65,2021-12-27,New Vehicle Loan
+738,34571,Parts and Accessories,5,76.86,2022-03-13,Vehicle Navigation Systems
+739,94622,Performance Vehicle,7,856.88,2022-08-22,Luxury Performance Sedan
+740,59945,Special Offers,5,258.48,2023-04-25,Trade-In Bonus Offer
+741,59206,Special Offers,9,336.93,2023-12-02,Financing Rate Promotion
+742,32845,Parts and Accessories,8,29.19,2022-10-19,Custom Alloy Wheels
+743,60563,Special Offers,3,852.25,2022-10-09,Financing Rate Promotion
+744,33443,Parts and Accessories,2,854.11,2021-12-27,Car Audio and Entertainment Systems

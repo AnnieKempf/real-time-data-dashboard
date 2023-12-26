@@ -1,0 +1,63 @@
+Transaction_ID,Customer_ID,Product_Category,Quantity,Price,Date,Product_Name
+125,56843,Financing and Insurance,1,954.22,2023-01-16,Extended Warranty Coverage
+126,55937,Parts and Accessories,7,352.75,2023-06-14,Car Audio and Entertainment Systems
+127,4219,Special Offers,6,283.55,2022-12-05,Exclusive Accessory Bundle Deal
+128,7922,Standard Vehicle,2,481.92,2023-10-14,Full-Size Sedan
+129,30779,Electric Vehicle,10,76.13,2023-11-08,Electric Luxury Sedan
+130,99818,Hybrid Vehicle,6,905.35,2022-02-04,Midsize Hybrid SUV
+131,54444,Hybrid Vehicle,6,273.15,2022-08-15,Hybrid Hatchback
+132,42884,Electric Vehicle,5,413.93,2022-11-28,All-Electric Compact Car
+133,83876,Hybrid Vehicle,3,507.59,2023-06-09,Compact Hybrid Sedan
+134,48791,Financing and Insurance,4,403.65,2023-08-26,New Vehicle Loan
+135,30615,Service and Maintenance,5,927.38,2023-10-07,Tire Rotation and Alignment
+136,23460,Standard Vehicle,1,425.91,2022-12-15,Compact Sedan
+137,75131,Standard Vehicle,5,744.09,2023-10-31,Midsize SUV
+138,32907,Parts and Accessories,2,340.66,2023-12-15,Roof Racks and Carriers
+139,87667,Standard Vehicle,7,411.03,2022-02-02,Midsize SUV
+140,33545,Commercial Vehicle,8,856.45,2023-03-04,Heavy-Duty Pickup Truck
+141,8072,Performance Vehicle,10,321.51,2022-07-03,High-Performance Sports Coupe
+142,94335,Commercial Vehicle,4,88.64,2023-04-23,Passenger Wagon
+143,62734,Financing and Insurance,4,151.52,2022-02-12,Vehicle Insurance Plans
+144,47846,Standard Vehicle,7,244.75,2023-04-03,Small Hatchback
+145,57577,Standard Vehicle,10,565.31,2022-12-15,Compact Sedan
+146,18943,Financing and Insurance,7,848.17,2022-12-18,Vehicle Insurance Plans
+147,24174,Standard Vehicle,6,198.24,2022-11-14,Station Wagon
+148,77166,Financing and Insurance,1,108.35,2022-04-19,Vehicle Insurance Plans
+149,85922,Standard Vehicle,5,100.78,2023-01-05,Station Wagon
+150,16908,Commercial Vehicle,1,522.2,2023-12-21,Passenger Wagon
+151,58980,Special Offers,5,615.23,2023-08-10,Seasonal Service Package Discount
+152,38614,Standard Vehicle,2,413.4,2023-06-05,Full-Size Sedan
+153,747,Service and Maintenance,4,350.57,2022-10-12,Battery Check and Replacement
+154,64279,Standard Vehicle,3,356.49,2023-07-30,Full-Size Sedan
+155,27522,Performance Vehicle,8,940.68,2022-09-29,Luxury Performance Sedan
+156,43135,Commercial Vehicle,3,930.78,2023-09-07,Box Truck
+157,73678,Commercial Vehicle,10,512.99,2023-07-29,Cargo Van
+158,76797,Parts and Accessories,2,112.93,2022-02-18,All-Weather Floor Mats
+159,836,Hybrid Vehicle,5,12.88,2022-04-22,Full-Size Hybrid Pickup Truck
+160,36332,Hybrid Vehicle,8,860.08,2022-01-01,Luxury Hybrid Coupe
+161,48474,Commercial Vehicle,3,172.34,2021-12-26,Heavy-Duty Pickup Truck
+162,35045,Parts and Accessories,2,328.79,2022-12-15,Vehicle Navigation Systems
+163,66428,Financing and Insurance,4,528.66,2023-12-09,New Vehicle Loan
+164,1421,Performance Vehicle,4,443.39,2022-01-15,Luxury Performance Sedan
+165,76313,Special Offers,10,814.77,2023-05-01,Financing Rate Promotion
+166,29511,Financing and Insurance,5,314.86,2022-09-19,Used Vehicle Financing
+167,55620,Financing and Insurance,5,629.21,2022-03-22,Extended Warranty Coverage
+168,86349,Performance Vehicle,8,110.08,2023-10-22,High-Performance Sports Coupe
+169,26750,Service and Maintenance,1,518.19,2023-11-08,Battery Check and Replacement
+170,75326,Special Offers,6,926.42,2023-06-21,Seasonal Service Package Discount
+171,64037,Hybrid Vehicle,7,248.94,2022-05-24,Full-Size Hybrid Pickup Truck
+172,29958,Financing and Insurance,4,288.95,2023-07-19,Lease Agreements
+173,90633,Financing and Insurance,7,997.92,2023-07-24,Lease Agreements
+174,76815,Performance Vehicle,6,696.45,2023-07-03,Track-Focused Sports Car
+175,27899,Commercial Vehicle,3,677.48,2022-12-16,Passenger Wagon
+176,63266,Hybrid Vehicle,9,642.61,2022-12-09,Luxury Hybrid Coupe
+177,89671,Parts and Accessories,9,249.56,2022-10-03,All-Weather Floor Mats
+178,99902,Service and Maintenance,2,123.77,2023-08-30,Oil Change and Lubrication Service
+179,49234,Special Offers,4,589.38,2022-10-24,Seasonal Service Package Discount
+180,18938,Hybrid Vehicle,8,285.25,2022-02-16,Compact Hybrid Sedan
+181,79753,Electric Vehicle,5,314.92,2022-09-23,All-Electric Compact Car
+182,55009,Financing and Insurance,4,938.84,2023-01-15,Used Vehicle Financing
+183,47025,Performance Vehicle,8,852.44,2023-06-27,High-Performance Sports Coupe
+184,30064,Performance Vehicle,2,80.26,2023-06-24,Performance Electric Model
+185,6630,Hybrid Vehicle,1,673.95,2023-12-22,Midsize Hybrid SUV
+186,46981,Commercial Vehicle,2,533.84,2023-04-09,Box Truck
