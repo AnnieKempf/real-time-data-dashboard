@@ -24,12 +24,13 @@ try:
             'Date': [faker.date_between(start_date='-2y', end_date='today') for _ in range(num_records)],
             'Time': [faker.time() for _ in range(num_records)]
         })
+        print(sales_data.head())
     except Exception as e:
         logging.error(f"Error generating sales data: {e}")
     
     # Sales Transaction Data
     try:
-        sales_data = pd.DataFrame({
+        inventory_data = pd.DataFrame({
             'Transaction_ID': range(1, num_records + 1),
             'Customer_ID': [faker.random_number(digits=5) for _ in range(num_records)],
             'Product_ID': [faker.random_number(digits=5) for _ in range(num_records)],
@@ -38,6 +39,7 @@ try:
             'Date': [faker.date_between(start_date='-2y', end_date='today') for _ in range(num_records)],
             'Time': [faker.time() for _ in range(num_records)]
         })
+        print(inventory_data.head())
     except Exception as e:
         logging.error(f"Error generating inventory data: {e}")
 
@@ -50,6 +52,7 @@ try:
             'Date': [faker.date_between(start_date='-2y', end_date='today') for _ in range(num_records)],
             'Description': [faker.sentence() for _ in range(num_records)]
     })
+        print(expense_data.head())
     except Exception as e:
         logging.error(f"Error generating expense data: {e}")
          
@@ -62,6 +65,10 @@ try:
         sales_df.show()
         inventory_df.show()
         expense_df.show()
+
+        sales_df.write.csv("data_generation\sales_data", header=True, mode="overwrite")
+        inventory_df.write.csv("data_generation\inventory_data", header=True, mode="overwrite")
+        expense_df.write.csv("data_generation\expense_data", header=True, mode="overwrite")
     except Exception as e:
         logging.error(f"Error creating Spark DataFrames: {e}")
 
