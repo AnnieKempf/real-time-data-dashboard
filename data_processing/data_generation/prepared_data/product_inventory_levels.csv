@@ -1,0 +1,46 @@
+Product_Category,Product_Name,Quantity,Stock_Level
+Hybrid Vehicle,Compact Hybrid Sedan,32,MEDIUM
+Hybrid Vehicle,Midsize Hybrid SUV,98,HIGH
+Hybrid Vehicle,Luxury Hybrid Coupe,70,HIGH
+Hybrid Vehicle,Hybrid Hatchback,39,MEDIUM
+Hybrid Vehicle,Full-Size Hybrid Pickup Truck,29,MEDIUM
+Electric Vehicle,All-Electric Compact Car,19,MEDIUM
+Electric Vehicle,Electric Crossover SUV,34,MEDIUM
+Electric Vehicle,Electric Luxury Sedan,37,MEDIUM
+Electric Vehicle,Electric Sports Car,84,HIGH
+Electric Vehicle,Electric Commercial Van,6,LOW
+Performance Vehicle,High-Performance Sports Coupe,8,LOW
+Performance Vehicle,Luxury Performance Sedan,56,HIGH
+Performance Vehicle,High-Speed Performance SUV,67,HIGH
+Performance Vehicle,Track-Focused Sports Car,65,HIGH
+Performance Vehicle,Performance Electric Model,93,HIGH
+Commercial Vehicle,Heavy-Duty Pickup Truck,96,HIGH
+Commercial Vehicle,Cargo Van,82,HIGH
+Commercial Vehicle,Chassis Cab,76,HIGH
+Commercial Vehicle,Box Truck,78,HIGH
+Commercial Vehicle,Passenger Wagon,32,MEDIUM
+Standard Vehicle,Compact Sedan,39,MEDIUM
+Standard Vehicle,Midsize SUV,11,MEDIUM
+Standard Vehicle,Full-Size Sedan,49,MEDIUM
+Standard Vehicle,Small Hatchback,17,MEDIUM
+Standard Vehicle,Station Wagon,11,MEDIUM
+Service and Maintenance,Oil Change and Lubrication Service,6,LOW
+Service and Maintenance,Tire Rotation and Alignment,62,HIGH
+Service and Maintenance,Brake Inspection and Replacement,9,LOW
+Service and Maintenance,Battery Check and Replacement,48,MEDIUM
+Service and Maintenance,Engine Diagnostic and Repair,85,HIGH
+Parts and Accessories,Custom Alloy Wheels,4,LOW
+Parts and Accessories,Vehicle Navigation Systems,99,HIGH
+Parts and Accessories,All-Weather Floor Mats,66,HIGH
+Parts and Accessories,Roof Racks and Carriers,27,MEDIUM
+Parts and Accessories,Car Audio and Entertainment Systems,66,HIGH
+Financing and Insurance,New Vehicle Loan,24,MEDIUM
+Financing and Insurance,Used Vehicle Financing,84,HIGH
+Financing and Insurance,Lease Agreements,33,MEDIUM
+Financing and Insurance,Extended Warranty Coverage,45,MEDIUM
+Financing and Insurance,Vehicle Insurance Plans,37,MEDIUM
+Special Offers,Limited-Time Discount on New Models,6,LOW
+Special Offers,Trade-In Bonus Offer,64,HIGH
+Special Offers,Seasonal Service Package Discount,38,MEDIUM
+Special Offers,Financing Rate Promotion,65,HIGH
+Special Offers,Exclusive Accessory Bundle Deal,56,HIGH
