@@ -1,0 +1,63 @@
+Transaction_ID,Customer_ID,Product_Category,Quantity,Price,Date,Product_Name
+869,51639,Hybrid Vehicle,9,1227329.31,2022-10-13T00:00:00.000+02:00,Compact Hybrid Sedan
+870,1577,Standard Vehicle,3,914553.97,2022-02-17T00:00:00.000+01:00,Full-Size Sedan
+871,46608,Service and Maintenance,3,999645.58,2022-05-03T00:00:00.000+02:00,Battery Check and Replacement
+872,95528,Performance Vehicle,5,2538106.56,2023-01-23T00:00:00.000+01:00,High-Performance Sports Coupe
+873,24864,Service and Maintenance,8,1554822.33,2022-02-05T00:00:00.000+01:00,Brake Inspection and Replacement
+874,51053,Parts and Accessories,2,2327949.42,2023-08-24T00:00:00.000+02:00,Roof Racks and Carriers
+875,18852,Service and Maintenance,9,1129922.27,2022-10-23T00:00:00.000+02:00,Oil Change and Lubrication Service
+876,37053,Financing and Insurance,4,2201036.53,2022-08-04T00:00:00.000+02:00,New Vehicle Loan
+877,85064,Hybrid Vehicle,1,693008.8,2021-12-29T00:00:00.000+01:00,Luxury Hybrid Coupe
+878,66748,Financing and Insurance,8,1074524.48,2023-07-12T00:00:00.000+02:00,Lease Agreements
+879,72106,Standard Vehicle,3,326685.18,2023-05-16T00:00:00.000+02:00,Full-Size Sedan
+880,52852,Financing and Insurance,6,2422031.01,2022-06-01T00:00:00.000+02:00,Extended Warranty Coverage
+881,62897,Special Offers,4,2191272.13,2023-02-13T00:00:00.000+01:00,Limited-Time Discount on New Models
+882,16725,Financing and Insurance,1,527602.51,2022-10-15T00:00:00.000+02:00,Vehicle Insurance Plans
+883,94587,Special Offers,10,2764794.02,2022-04-21T00:00:00.000+02:00,Seasonal Service Package Discount
+884,30687,Commercial Vehicle,10,2833967.92,2023-08-15T00:00:00.000+02:00,Box Truck
+885,65821,Electric Vehicle,10,547302.22,2022-12-03T00:00:00.000+01:00,Electric Commercial Van
+886,29554,Performance Vehicle,10,1733287.79,2023-05-19T00:00:00.000+02:00,Track-Focused Sports Car
+887,82863,Performance Vehicle,7,2160612.32,2022-03-11T00:00:00.000+01:00,Track-Focused Sports Car
+888,82628,Commercial Vehicle,5,988156.36,2023-05-26T00:00:00.000+02:00,Chassis Cab
+889,13096,Electric Vehicle,6,2393845.77,2022-11-11T00:00:00.000+01:00,Electric Luxury Sedan
+890,20560,Parts and Accessories,7,966770.86,2022-10-17T00:00:00.000+02:00,Car Audio and Entertainment Systems
+891,26650,Parts and Accessories,9,2082324.77,2022-01-24T00:00:00.000+01:00,Custom Alloy Wheels
+892,83949,Service and Maintenance,10,740499.54,2023-04-21T00:00:00.000+02:00,Brake Inspection and Replacement
+893,78827,Commercial Vehicle,6,920211.89,2022-09-18T00:00:00.000+02:00,Cargo Van
+894,92227,Financing and Insurance,5,2142412.61,2022-02-01T00:00:00.000+01:00,New Vehicle Loan
+895,64395,Electric Vehicle,3,2003144.48,2022-12-06T00:00:00.000+01:00,All-Electric Compact Car
+896,9920,Special Offers,7,336243.6,2022-11-16T00:00:00.000+01:00,Limited-Time Discount on New Models
+897,35183,Commercial Vehicle,1,1073717.07,2023-10-26T00:00:00.000+02:00,Chassis Cab
+898,70764,Service and Maintenance,2,2401594.21,2023-06-23T00:00:00.000+02:00,Oil Change and Lubrication Service
+899,44213,Financing and Insurance,4,2957363.49,2022-05-28T00:00:00.000+02:00,Used Vehicle Financing
+900,5845,Financing and Insurance,5,832568.15,2022-06-02T00:00:00.000+02:00,Lease Agreements
+901,95824,Standard Vehicle,4,2035123.4,2022-09-29T00:00:00.000+02:00,Compact Sedan
+902,17952,Special Offers,6,1662051.61,2022-12-11T00:00:00.000+01:00,Limited-Time Discount on New Models
+903,15839,Hybrid Vehicle,4,183130.33,2022-01-30T00:00:00.000+01:00,Midsize Hybrid SUV
+904,68890,Hybrid Vehicle,9,606683.31,2023-10-14T00:00:00.000+02:00,Luxury Hybrid Coupe
+905,66379,Financing and Insurance,3,2419295.52,2023-10-31T00:00:00.000+01:00,New Vehicle Loan
+906,4946,Standard Vehicle,5,2831176.55,2022-11-03T00:00:00.000+01:00,Midsize SUV
+907,76106,Commercial Vehicle,6,389824.14,2022-02-04T00:00:00.000+01:00,Passenger Wagon
+908,8001,Electric Vehicle,6,851741.12,2023-11-17T00:00:00.000+01:00,Electric Crossover SUV
+909,12959,Hybrid Vehicle,2,209461.69,2022-10-23T00:00:00.000+02:00,Hybrid Hatchback
+910,60837,Parts and Accessories,3,2875570.99,2023-05-18T00:00:00.000+02:00,Car Audio and Entertainment Systems
+911,73744,Financing and Insurance,8,527263.99,2023-03-22T00:00:00.000+01:00,Used Vehicle Financing
+912,57972,Financing and Insurance,4,157090.16,2023-11-17T00:00:00.000+01:00,Used Vehicle Financing
+913,30548,Parts and Accessories,3,1586145.69,2022-11-07T00:00:00.000+01:00,Vehicle Navigation Systems
+914,49389,Standard Vehicle,8,120224.51,2023-12-12T00:00:00.000+01:00,Compact Sedan
+915,55011,Commercial Vehicle,3,2637904.36,2022-03-27T00:00:00.000+01:00,Heavy-Duty Pickup Truck
+916,52360,Hybrid Vehicle,1,1815612.2,2023-07-02T00:00:00.000+02:00,Luxury Hybrid Coupe
+917,75972,Parts and Accessories,1,1914927.44,2023-09-08T00:00:00.000+02:00,Roof Racks and Carriers
+918,35190,Commercial Vehicle,8,799607.31,2023-06-17T00:00:00.000+02:00,Passenger Wagon
+919,17824,Performance Vehicle,8,895272.2,2022-11-11T00:00:00.000+01:00,High-Performance Sports Coupe
+920,92224,Commercial Vehicle,6,1015570.74,2022-08-18T00:00:00.000+02:00,Passenger Wagon
+921,96527,Commercial Vehicle,9,144757.96,2023-05-05T00:00:00.000+02:00,Cargo Van
+922,40703,Standard Vehicle,5,2870762.56,2023-09-07T00:00:00.000+02:00,Small Hatchback
+923,78444,Financing and Insurance,7,2147169.49,2022-06-24T00:00:00.000+02:00,Extended Warranty Coverage
+924,69905,Electric Vehicle,4,1993995.23,2023-04-10T00:00:00.000+02:00,Electric Sports Car
+925,71142,Electric Vehicle,4,614280.99,2023-03-04T00:00:00.000+01:00,Electric Crossover SUV
+926,34802,Parts and Accessories,5,1986617.24,2022-08-17T00:00:00.000+02:00,Car Audio and Entertainment Systems
+927,19098,Standard Vehicle,8,964194.32,2022-06-27T00:00:00.000+02:00,Midsize SUV
+928,42953,Parts and Accessories,8,301131.5,2022-09-01T00:00:00.000+02:00,Car Audio and Entertainment Systems
+929,48484,Financing and Insurance,5,1364854.49,2022-08-14T00:00:00.000+02:00,New Vehicle Loan
+930,29814,Service and Maintenance,10,2826542.32,2022-05-15T00:00:00.000+02:00,Battery Check and Replacement

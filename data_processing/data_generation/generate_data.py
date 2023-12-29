@@ -52,8 +52,8 @@ try:
             'Customer_ID': [faker.random_number(digits=5) for _ in range(num_records)],
             'Product_Category': [random.choice(product_categories) for _ in range(num_records)],
             'Quantity': [random.randint(1, 10) for _ in range(num_records)],
-            'Price': [round(random.uniform(10, 1000), 2) for _ in range(num_records)],
-            'Date': [faker.date_between(start_date='-2y', end_date='today') for _ in range(num_records)],
+            'Price': [round(random.uniform(1000, 3000000), 2) for _ in range(num_records)],
+            'Date': [pd.to_datetime(faker.date_between(start_date='-2y', end_date='today')) for _ in range(num_records)]
         }
         )
         sales_data['Product_Name'] = sales_data['Product_Category'].apply(get_random_product)
@@ -97,7 +97,7 @@ try:
         expense_data = pd.DataFrame({
             'Expense_ID': range(1, num_records + 1),
             'Category': [random.choice(expense_categories) for _ in range(num_records)],
-            'Amount': [round(random.uniform(100, 10000), 2) for _ in range(num_records)],
+            'Amount': [round(random.uniform(5000, 300000), 2) for _ in range(num_records)],
             'Date': [faker.date_between(start_date='-2y', end_date='today') for _ in range(num_records)],
             'Description': [faker.sentence() for _ in range(num_records)]
         })
@@ -114,9 +114,9 @@ try:
         inventory_df.show()
         expense_df.show()
 
-        sales_df.write.csv("data_generation\sales_data", header=True, mode="overwrite")
-        inventory_df.write.csv("data_generation\inventory_data", header=True, mode="overwrite")
-        expense_df.write.csv("data_generation\expense_data", header=True, mode="overwrite")
+        sales_df.write.csv("data_processing\data_generation\sales_data", header=True, mode="overwrite")
+        inventory_df.write.csv("data_processing\data_generation\inventory_data", header=True, mode="overwrite")
+        expense_df.write.csv("data_processing\data_generation\expense_data", header=True, mode="overwrite")
 
     except Exception as e:
         logging.error(f"Error creating Spark DataFrames: {e}")
