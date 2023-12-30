@@ -1,0 +1,126 @@
+Transaction_ID,Customer_ID,Product_Category,Quantity,Price,Date,Product_Name
+1,73232,Special Offers,4,2968126.08,2023-02-06T00:00:00.000+01:00,Trade-In Bonus Offer
+2,95887,Electric Vehicle,9,401698.03,2023-04-18T00:00:00.000+02:00,Electric Luxury Sedan
+3,20723,Standard Vehicle,4,653626.06,2023-03-15T00:00:00.000+01:00,Midsize SUV
+4,77001,Special Offers,8,2940872.14,2023-05-10T00:00:00.000+02:00,Exclusive Accessory Bundle Deal
+5,92653,Standard Vehicle,4,386161.92,2023-10-13T00:00:00.000+02:00,Full-Size Sedan
+6,81238,Electric Vehicle,7,2702029.48,2023-02-24T00:00:00.000+01:00,All-Electric Compact Car
+7,59480,Special Offers,8,2165754.28,2023-05-11T00:00:00.000+02:00,Exclusive Accessory Bundle Deal
+8,11410,Service and Maintenance,4,261358.4,2023-01-29T00:00:00.000+01:00,Battery Check and Replacement
+9,73664,Standard Vehicle,8,1296407.28,2023-10-24T00:00:00.000+02:00,Full-Size Sedan
+10,71759,Performance Vehicle,4,18040.94,2023-09-28T00:00:00.000+02:00,High-Speed Performance SUV
+11,18241,Standard Vehicle,9,1357704.12,2023-08-28T00:00:00.000+02:00,Midsize SUV
+12,36578,Standard Vehicle,10,1950772.62,2023-02-14T00:00:00.000+01:00,Midsize SUV
+13,82692,Hybrid Vehicle,4,2383085.51,2023-11-26T00:00:00.000+01:00,Hybrid Hatchback
+14,11786,Hybrid Vehicle,2,2980245.99,2023-12-15T00:00:00.000+01:00,Midsize Hybrid SUV
+15,43693,Hybrid Vehicle,8,49876.03,2023-03-07T00:00:00.000+01:00,Hybrid Hatchback
+16,42904,Hybrid Vehicle,6,37662.2,2023-04-05T00:00:00.000+02:00,Luxury Hybrid Coupe
+17,56539,Financing and Insurance,1,1103121.18,2023-04-03T00:00:00.000+02:00,Used Vehicle Financing
+18,57359,Special Offers,2,556515.0,2023-01-21T00:00:00.000+01:00,Trade-In Bonus Offer
+19,29477,Performance Vehicle,4,2556075.71,2023-04-14T00:00:00.000+02:00,High-Speed Performance SUV
+20,17049,Performance Vehicle,3,2799629.62,2023-12-15T00:00:00.000+01:00,Luxury Performance Sedan
+21,65914,Electric Vehicle,3,2147400.16,2023-03-27T00:00:00.000+02:00,Electric Commercial Van
+22,4329,Performance Vehicle,5,1349357.08,2023-12-05T00:00:00.000+01:00,Track-Focused Sports Car
+23,26166,Financing and Insurance,10,2019315.36,2023-05-24T00:00:00.000+02:00,Used Vehicle Financing
+24,61558,Service and Maintenance,8,2017076.08,2023-07-20T00:00:00.000+02:00,Oil Change and Lubrication Service
+25,90059,Performance Vehicle,5,2147425.46,2023-01-11T00:00:00.000+01:00,Luxury Performance Sedan
+26,84505,Standard Vehicle,4,2789523.58,2023-07-13T00:00:00.000+02:00,Full-Size Sedan
+27,9357,Standard Vehicle,10,2358251.9,2023-11-19T00:00:00.000+01:00,Small Hatchback
+28,94914,Hybrid Vehicle,2,2801911.88,2023-02-13T00:00:00.000+01:00,Luxury Hybrid Coupe
+29,12236,Financing and Insurance,5,1873419.15,2023-09-08T00:00:00.000+02:00,New Vehicle Loan
+30,2505,Service and Maintenance,3,2906771.94,2023-06-26T00:00:00.000+02:00,Tire Rotation and Alignment
+31,65540,Commercial Vehicle,10,587346.82,2023-12-12T00:00:00.000+01:00,Chassis Cab
+32,36579,Financing and Insurance,5,834960.34,2023-04-12T00:00:00.000+02:00,Vehicle Insurance Plans
+33,89104,Service and Maintenance,8,2734919.64,2023-11-19T00:00:00.000+01:00,Brake Inspection and Replacement
+34,35833,Financing and Insurance,2,1249569.61,2023-08-08T00:00:00.000+02:00,Extended Warranty Coverage
+35,91329,Special Offers,3,637850.05,2023-07-02T00:00:00.000+02:00,Trade-In Bonus Offer
+36,55384,Performance Vehicle,4,1056854.57,2023-05-09T00:00:00.000+02:00,Luxury Performance Sedan
+37,59443,Standard Vehicle,6,912661.12,2023-10-24T00:00:00.000+02:00,Full-Size Sedan
+38,77942,Performance Vehicle,6,2776823.16,2023-05-27T00:00:00.000+02:00,Track-Focused Sports Car
+39,55311,Service and Maintenance,4,2461445.66,2023-11-09T00:00:00.000+01:00,Brake Inspection and Replacement
+40,24163,Hybrid Vehicle,3,1573637.7,2023-04-02T00:00:00.000+02:00,Compact Hybrid Sedan
+41,24883,Performance Vehicle,1,893682.73,2023-11-14T00:00:00.000+01:00,High-Speed Performance SUV
+42,19269,Standard Vehicle,7,1912596.17,2023-12-21T00:00:00.000+01:00,Midsize SUV
+43,76596,Performance Vehicle,1,1778560.62,2023-04-06T00:00:00.000+02:00,Track-Focused Sports Car
+44,18049,Electric Vehicle,6,2847385.82,2023-05-06T00:00:00.000+02:00,Electric Sports Car
+45,58478,Electric Vehicle,7,2873296.06,2023-03-26T00:00:00.000+01:00,Electric Luxury Sedan
+46,92635,Electric Vehicle,5,1353310.03,2023-04-25T00:00:00.000+02:00,Electric Crossover SUV
+47,98218,Performance Vehicle,5,500976.96,2023-12-23T00:00:00.000+01:00,High-Speed Performance SUV
+48,95205,Commercial Vehicle,7,679132.24,2023-01-06T00:00:00.000+01:00,Heavy-Duty Pickup Truck
+49,10419,Commercial Vehicle,7,1750682.34,2023-03-31T00:00:00.000+02:00,Chassis Cab
+50,98904,Standard Vehicle,8,2061847.41,2023-06-21T00:00:00.000+02:00,Small Hatchback
+51,15390,Commercial Vehicle,10,928689.3,2023-09-10T00:00:00.000+02:00,Cargo Van
+52,64528,Hybrid Vehicle,6,2726082.32,2023-05-29T00:00:00.000+02:00,Midsize Hybrid SUV
+53,59269,Commercial Vehicle,8,2225803.75,2023-03-18T00:00:00.000+01:00,Box Truck
+54,83323,Special Offers,10,1724334.23,2023-07-13T00:00:00.000+02:00,Financing Rate Promotion
+55,49260,Performance Vehicle,8,1860631.09,2023-07-13T00:00:00.000+02:00,Luxury Performance Sedan
+56,49014,Parts and Accessories,5,1442289.68,2023-10-27T00:00:00.000+02:00,All-Weather Floor Mats
+57,15820,Commercial Vehicle,7,395692.76,2023-04-30T00:00:00.000+02:00,Chassis Cab
+58,80675,Parts and Accessories,6,1991300.69,2023-06-21T00:00:00.000+02:00,Roof Racks and Carriers
+59,209,Special Offers,10,456587.74,2023-12-06T00:00:00.000+01:00,Exclusive Accessory Bundle Deal
+60,80039,Electric Vehicle,6,1959568.76,2023-08-19T00:00:00.000+02:00,Electric Commercial Van
+61,24976,Standard Vehicle,3,95583.06,2023-11-15T00:00:00.000+01:00,Midsize SUV
+62,82021,Parts and Accessories,10,1674903.35,2023-06-08T00:00:00.000+02:00,Car Audio and Entertainment Systems
+63,23669,Hybrid Vehicle,8,2411617.47,2023-09-21T00:00:00.000+02:00,Midsize Hybrid SUV
+64,86537,Hybrid Vehicle,8,1864910.6,2023-12-06T00:00:00.000+01:00,Full-Size Hybrid Pickup Truck
+65,80818,Special Offers,8,2492103.81,2023-07-30T00:00:00.000+02:00,Exclusive Accessory Bundle Deal
+66,4923,Special Offers,10,2078280.09,2023-09-17T00:00:00.000+02:00,Seasonal Service Package Discount
+67,43800,Parts and Accessories,10,1738466.7,2023-12-21T00:00:00.000+01:00,Custom Alloy Wheels
+68,79436,Electric Vehicle,4,1916241.88,2023-02-28T00:00:00.000+01:00,All-Electric Compact Car
+69,84625,Parts and Accessories,8,1076354.51,2023-09-10T00:00:00.000+02:00,Custom Alloy Wheels
+70,43078,Hybrid Vehicle,7,1046012.19,2023-06-27T00:00:00.000+02:00,Compact Hybrid Sedan
+71,62163,Hybrid Vehicle,5,107798.83,2023-01-14T00:00:00.000+01:00,Compact Hybrid Sedan
+72,69950,Standard Vehicle,4,1241659.77,2023-09-19T00:00:00.000+02:00,Compact Sedan
+73,96686,Financing and Insurance,3,777676.88,2023-06-23T00:00:00.000+02:00,Extended Warranty Coverage
+74,15310,Hybrid Vehicle,5,2794911.94,2023-04-13T00:00:00.000+02:00,Hybrid Hatchback
+75,60065,Standard Vehicle,1,635653.23,2023-08-13T00:00:00.000+02:00,Compact Sedan
+76,73596,Electric Vehicle,10,2767465.11,2023-02-10T00:00:00.000+01:00,Electric Luxury Sedan
+77,35356,Hybrid Vehicle,1,1957221.34,2023-01-06T00:00:00.000+01:00,Luxury Hybrid Coupe
+78,31471,Financing and Insurance,1,1315545.04,2023-09-08T00:00:00.000+02:00,New Vehicle Loan
+79,5627,Financing and Insurance,5,2821576.93,2023-02-18T00:00:00.000+01:00,Used Vehicle Financing
+80,48084,Commercial Vehicle,4,2171322.12,2023-04-25T00:00:00.000+02:00,Box Truck
+81,95611,Hybrid Vehicle,4,377144.13,2023-01-22T00:00:00.000+01:00,Compact Hybrid Sedan
+82,48485,Financing and Insurance,3,1543953.98,2023-11-26T00:00:00.000+01:00,Vehicle Insurance Plans
+83,56714,Special Offers,10,808153.2,2023-08-29T00:00:00.000+02:00,Financing Rate Promotion
+84,7835,Electric Vehicle,8,1397384.98,2023-02-15T00:00:00.000+01:00,Electric Crossover SUV
+85,76218,Standard Vehicle,3,1067357.66,2023-06-27T00:00:00.000+02:00,Midsize SUV
+86,18047,Service and Maintenance,2,1361943.67,2023-10-03T00:00:00.000+02:00,Battery Check and Replacement
+87,61520,Standard Vehicle,5,2149081.89,2023-02-15T00:00:00.000+01:00,Midsize SUV
+88,63505,Hybrid Vehicle,6,2492333.31,2023-01-16T00:00:00.000+01:00,Midsize Hybrid SUV
+89,51280,Financing and Insurance,1,420390.3,2023-10-17T00:00:00.000+02:00,Used Vehicle Financing
+90,90224,Electric Vehicle,2,385455.45,2023-01-09T00:00:00.000+01:00,Electric Commercial Van
+91,30087,Service and Maintenance,8,2104761.57,2023-04-12T00:00:00.000+02:00,Tire Rotation and Alignment
+92,99524,Performance Vehicle,5,2449212.12,2023-11-24T00:00:00.000+01:00,Performance Electric Model
+93,56880,Electric Vehicle,7,2444623.24,2023-09-07T00:00:00.000+02:00,Electric Luxury Sedan
+94,17518,Service and Maintenance,9,1597099.85,2023-11-19T00:00:00.000+01:00,Battery Check and Replacement
+95,78854,Service and Maintenance,6,1687561.76,2023-10-18T00:00:00.000+02:00,Engine Diagnostic and Repair
+96,41701,Financing and Insurance,4,2802351.44,2023-07-29T00:00:00.000+02:00,Vehicle Insurance Plans
+97,50502,Commercial Vehicle,9,2472121.62,2023-07-15T00:00:00.000+02:00,Heavy-Duty Pickup Truck
+98,73482,Standard Vehicle,1,666683.12,2023-07-13T00:00:00.000+02:00,Midsize SUV
+99,30936,Standard Vehicle,4,2765343.58,2023-03-20T00:00:00.000+01:00,Full-Size Sedan
+100,71073,Special Offers,6,2212152.66,2023-06-14T00:00:00.000+02:00,Trade-In Bonus Offer
+101,27593,Parts and Accessories,10,519051.61,2023-08-22T00:00:00.000+02:00,All-Weather Floor Mats
+102,90399,Electric Vehicle,8,297052.98,2023-03-31T00:00:00.000+02:00,Electric Commercial Van
+103,50188,Special Offers,7,1985126.89,2023-03-04T00:00:00.000+01:00,Trade-In Bonus Offer
+104,45979,Standard Vehicle,10,2440459.78,2023-02-08T00:00:00.000+01:00,Compact Sedan
+105,61086,Financing and Insurance,2,418190.13,2023-06-11T00:00:00.000+02:00,Extended Warranty Coverage
+106,51572,Electric Vehicle,9,1834574.34,2023-04-11T00:00:00.000+02:00,Electric Luxury Sedan
+107,65015,Standard Vehicle,7,472897.43,2023-02-08T00:00:00.000+01:00,Small Hatchback
+108,62021,Electric Vehicle,10,1504938.74,2023-03-06T00:00:00.000+01:00,Electric Commercial Van
+109,52651,Special Offers,10,2572278.68,2023-11-07T00:00:00.000+01:00,Exclusive Accessory Bundle Deal
+110,94457,Electric Vehicle,1,2547442.29,2023-06-16T00:00:00.000+02:00,Electric Commercial Van
+111,59203,Hybrid Vehicle,3,2912658.9,2023-01-05T00:00:00.000+01:00,Luxury Hybrid Coupe
+112,12041,Financing and Insurance,3,786620.75,2023-01-13T00:00:00.000+01:00,Lease Agreements
+113,31076,Special Offers,2,372613.86,2023-09-09T00:00:00.000+02:00,Financing Rate Promotion
+114,90941,Special Offers,3,2013940.49,2023-11-14T00:00:00.000+01:00,Seasonal Service Package Discount
+115,89834,Hybrid Vehicle,10,304960.56,2023-09-09T00:00:00.000+02:00,Hybrid Hatchback
+116,34252,Performance Vehicle,3,1770527.88,2023-02-26T00:00:00.000+01:00,Performance Electric Model
+117,54370,Hybrid Vehicle,7,2218471.87,2023-01-17T00:00:00.000+01:00,Hybrid Hatchback
+118,48394,Hybrid Vehicle,3,2552044.22,2023-05-08T00:00:00.000+02:00,Compact Hybrid Sedan
+119,89236,Service and Maintenance,1,1582901.3,2023-02-17T00:00:00.000+01:00,Battery Check and Replacement
+120,64147,Special Offers,10,1869944.35,2023-08-03T00:00:00.000+02:00,Trade-In Bonus Offer
+121,30606,Service and Maintenance,1,219815.93,2023-10-30T00:00:00.000+01:00,Tire Rotation and Alignment
+122,98401,Parts and Accessories,6,435062.29,2023-02-02T00:00:00.000+01:00,Vehicle Navigation Systems
+123,65612,Standard Vehicle,7,982786.32,2023-04-10T00:00:00.000+02:00,Station Wagon
+124,95221,Electric Vehicle,9,43257.77,2023-06-24T00:00:00.000+02:00,Electric Commercial Van
+125,74692,Performance Vehicle,10,708787.82,2023-01-10T00:00:00.000+01:00,Luxury Performance Sedan
