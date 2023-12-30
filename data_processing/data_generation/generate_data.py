@@ -1,6 +1,5 @@
 import pandas as pd
 from faker import Faker
-import numpy as np
 import random
 from pyspark.sql import SparkSession
 import logging
