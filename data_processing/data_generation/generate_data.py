@@ -1,6 +1,5 @@
 import pandas as pd
 from faker import Faker
-import numpy as np
 import random
 from pyspark.sql import SparkSession
 import logging
@@ -11,7 +10,7 @@ try:
     spark = SparkSession.builder.appName('SimulateData').getOrCreate()
     faker = Faker()
 
-    num_records = 1000
+    num_records = 2000
 
     product_categories = [
     "Hybrid Vehicle", "Electric Vehicle", "Performance Vehicle",
@@ -53,7 +52,7 @@ try:
             'Product_Category': [random.choice(product_categories) for _ in range(num_records)],
             'Quantity': [random.randint(1, 10) for _ in range(num_records)],
             'Price': [round(random.uniform(1000, 3000000), 2) for _ in range(num_records)],
-            'Date': [pd.to_datetime(faker.date_between(start_date='-2y', end_date='today')) for _ in range(num_records)]
+            'Date': [pd.to_datetime(faker.date_between(start_date='-1y', end_date='today')) for _ in range(num_records)]
         }
         )
         sales_data['Product_Name'] = sales_data['Product_Category'].apply(get_random_product)
@@ -97,8 +96,8 @@ try:
         expense_data = pd.DataFrame({
             'Expense_ID': range(1, num_records + 1),
             'Category': [random.choice(expense_categories) for _ in range(num_records)],
-            'Amount': [round(random.uniform(5000, 300000), 2) for _ in range(num_records)],
-            'Date': [faker.date_between(start_date='-2y', end_date='today') for _ in range(num_records)],
+            'Amount': [round(random.uniform(5000, 500000), 2) for _ in range(num_records)],
+            'Date': [faker.date_between(start_date='-1y', end_date='today') for _ in range(num_records)],
             'Description': [faker.sentence() for _ in range(num_records)]
         })
         print(expense_data.head())
