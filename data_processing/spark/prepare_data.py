@@ -54,6 +54,7 @@ try:
         return aggregated_expenses.withColumnRenamed("sum(Amount)", "Total_Expenses")
 
     output_folder = r'data_processing\data_generation\prepared_data'
+    # output_folder = "hdfs://localhost:8020/user/annie/spark_output"
 
     try:
         combined_sales_data = combine_csv_files(spark, r'data_processing\data_generation\sales_data')
@@ -67,6 +68,7 @@ try:
         output_filename = 'monthly_sales_data'
         output_path = os.path.join(output_folder, output_filename)
         monthly_sales = aggregate_sales_over_time(combined_sales_data, 'M')
+        monthly_sales.show()
         monthly_sales.coalesce(1).write.csv(output_path, mode='overwrite', header=True)
     except Exception as e:
         logging.error(f"Error creating monthly sales data: {e}")

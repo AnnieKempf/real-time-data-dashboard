@@ -1,0 +1,5 @@
+Product_Category,Product_Name,Quantity,Stock_Level
+Commercial Vehicle,Cargo Van,18,MEDIUM
+Commercial Vehicle,Chassis Cab,26,MEDIUM
+Commercial Vehicle,Box Truck,31,MEDIUM
+Commercial Vehicle,Passenger Wagon,60,HIGH
