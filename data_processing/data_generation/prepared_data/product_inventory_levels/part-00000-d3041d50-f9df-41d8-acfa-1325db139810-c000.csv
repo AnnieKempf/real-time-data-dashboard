@@ -1,0 +1,46 @@
+Product_Category,Product_Name,Quantity,Stock_Level
+Standard Vehicle,Station Wagon,10,MEDIUM
+Service and Maintenance,Oil Change and Lubrication Service,5,LOW
+Service and Maintenance,Tire Rotation and Alignment,71,HIGH
+Service and Maintenance,Brake Inspection and Replacement,48,MEDIUM
+Financing and Insurance,Used Vehicle Financing,13,MEDIUM
+Financing and Insurance,Lease Agreements,13,MEDIUM
+Financing and Insurance,Extended Warranty Coverage,19,MEDIUM
+Financing and Insurance,Vehicle Insurance Plans,58,HIGH
+Performance Vehicle,High-Performance Sports Coupe,100,HIGH
+Performance Vehicle,Luxury Performance Sedan,25,MEDIUM
+Performance Vehicle,High-Speed Performance SUV,88,HIGH
+Performance Vehicle,Track-Focused Sports Car,21,MEDIUM
+Parts and Accessories,Custom Alloy Wheels,76,HIGH
+Parts and Accessories,Vehicle Navigation Systems,1,LOW
+Parts and Accessories,All-Weather Floor Mats,90,HIGH
+Parts and Accessories,Roof Racks and Carriers,5,LOW
+Hybrid Vehicle,Full-Size Hybrid Pickup Truck,76,HIGH
+Electric Vehicle,All-Electric Compact Car,39,MEDIUM
+Electric Vehicle,Electric Crossover SUV,15,MEDIUM
+Electric Vehicle,Electric Luxury Sedan,18,MEDIUM
+Special Offers,Seasonal Service Package Discount,99,HIGH
+Special Offers,Financing Rate Promotion,32,MEDIUM
+Special Offers,Exclusive Accessory Bundle Deal,73,HIGH
+Commercial Vehicle,Cargo Van,94,HIGH
+Commercial Vehicle,Chassis Cab,97,HIGH
+Commercial Vehicle,Box Truck,10,MEDIUM
+Commercial Vehicle,Passenger Wagon,7,LOW
+Service and Maintenance,Battery Check and Replacement,93,HIGH
+Service and Maintenance,Engine Diagnostic and Repair,83,HIGH
+Parts and Accessories,Car Audio and Entertainment Systems,56,HIGH
+Financing and Insurance,New Vehicle Loan,8,LOW
+Performance Vehicle,Performance Electric Model,4,LOW
+Commercial Vehicle,Heavy-Duty Pickup Truck,10,MEDIUM
+Special Offers,Limited-Time Discount on New Models,7,LOW
+Special Offers,Trade-In Bonus Offer,29,MEDIUM
+Electric Vehicle,Electric Sports Car,30,MEDIUM
+Electric Vehicle,Electric Commercial Van,46,MEDIUM
+Hybrid Vehicle,Compact Hybrid Sedan,32,MEDIUM
+Hybrid Vehicle,Midsize Hybrid SUV,22,MEDIUM
+Hybrid Vehicle,Luxury Hybrid Coupe,35,MEDIUM
+Hybrid Vehicle,Hybrid Hatchback,12,MEDIUM
+Standard Vehicle,Full-Size Sedan,42,MEDIUM
+Standard Vehicle,Small Hatchback,63,HIGH
+Standard Vehicle,Compact Sedan,4,LOW
+Standard Vehicle,Midsize SUV,74,HIGH

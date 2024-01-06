@@ -54,7 +54,7 @@ try:
         return aggregated_expenses.withColumnRenamed("sum(Amount)", "Total_Expenses")
 
     output_folder = r'data_processing\data_generation\prepared_data'
-    # output_folder = "hdfs://localhost:8020/user/annie/spark_output"
+    # output_folder = "hdfs://localhost:8020/user/annie/spark_output" //Was suppoed to be used for Hadoop
 
     try:
         combined_sales_data = combine_csv_files(spark, r'data_processing\data_generation\sales_data')
